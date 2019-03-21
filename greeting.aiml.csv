@@ -1,0 +1,9 @@
+0,"السلام عليكم ",*,*,"وعليكم السلام",greeting.aiml
+0,"مرحبا ",*,*,<random><li>مرحبا</li><li>اهلا</li><li>هلا</li></random>,greeting.aiml
+0,هلا,*,*,<random><li>مرحبا</li><li>اهلا</li><li>هلا</li></random>,greeting.aiml
+0,اهلا,*,*,<random><li>مرحبا</li><li>اهلا</li><li>هلا</li></random>,greeting.aiml
+0,"صباح الخير",*,*,"صباح النور",greeting.aiml
+0,"مساء الخير",*,*,"مساء النور",greeting.aiml
+0,وداعا,*,*,"<random><li>وداعا</li><li>إالى اللقاء</li><li>أراك لاحقا</li><li>أراك قريبا</li></random>",greeting.aiml
+0,شكرا,*,*,"<random><li>عفوا</li><li>لا شكر على واجب</li><li>حظا سعيدا</li></random>",greeting.aiml
+0,"شكرا جزيلا",*,*,"<random><li>عفوا</li><li>لا شكر على واجب</li><li>حظا سعيدا</li></random>",greeting.aiml
