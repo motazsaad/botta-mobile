@@ -42,8 +42,7 @@ public class ChatActivity extends AppCompatActivity {
     private ListView mListView;
     private Button mButtonSend;
     private EditText mEditTextMessage;
-    private ImageView mImageView;
-    public Bot bot;
+    public static Bot bot;
     public static Chat chat;
     private ChatMessageAdapter mAdapter;
 
